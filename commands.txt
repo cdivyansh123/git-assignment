@@ -1,0 +1,19 @@
+- Command to initialize git repository -  git init
+- Command to clone remote repository   -  git clone 
+- Command to stage all changes	   -  git add .
+- Command to view state of working directory and staging area - git status
+- Command to create new branch	   -  git branch new_branch_name
+- Command to change branch		   -  git checkout branch_name
+- Command to clean staging area	   -  git rm
+- Command to cherry pick commit which SHA => 092018283103810930 - git cherry-pick
+- Command to push branch               -  git push origin branch_name
+- Command to delete remote branch      -  git push origin -d branch_name
+- Command to do iterative rebase       -  git rebase -i 
+
+
+
+
+
+
+
+
